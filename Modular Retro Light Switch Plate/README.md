@@ -1,5 +1,5 @@
 # Retro Modular Switch Plate
-Switch plate designed in SolidWorks for aesthetics and modular functionality.
+Switch plate designed in SolidWorks 2020. Its main design goals were aesthetics and modular functionality via exchangable hooks that snap into the bottom of the plate.
 
 Designed for use with rocker-style light switch; SLDPRT file contains modifications for regular toggle switches. STL and SLDPRT can be found in files.
 
