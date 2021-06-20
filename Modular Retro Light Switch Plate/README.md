@@ -1,7 +1,24 @@
 # Retro Modular Switch Plate
 Switch plate designed in SolidWorks 2020. Its main design goals were aesthetics and modular functionality via exchangable hooks that snap into the bottom of the plate.
 
-Designed for use with rocker-style light switch; SLDPRT file contains modifications for regular toggle switches. STL and SLDPRT can be found under [files](https://github.com/bwilt17/3D-Models/tree/main/Modular%20Retro%20Light%20Switch%20Plate/files).
-
 ![Final Product Front](/Modular%20Retro%20Light%20Switch%20Plate/images/lsw1.PNG) 
 ![Final Product Back](/Modular%20Retro%20Light%20Switch%20Plate/images/lsw2.PNG)
+
+# Modeling and Printing:
+
+This switch plate is designed for use with rocker-style light switches, but the SLDPRT file contains modifications for regular toggle switches. STL and SLDPRT can be found under [files](https://github.com/bwilt17/3D-Models/tree/main/Modular%20Retro%20Light%20Switch%20Plate/files).
+
+If 3D printing using a regular FDM printer, print the switch plate with the front facing down on the bed for best results. 
+
+The printing specifications for my 3D printer were as follows:
+
+**Printer:** Kingroon KP3
+
+**Filament:** Hatchbox Black PLA
+
+**Nozzle Temp.:** 190 C
+
+**Bed Temp.:** 60 C
+
+**Print Speed:** 30 mm/s
+
