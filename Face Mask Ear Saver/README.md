@@ -20,10 +20,15 @@ I modeled it in Solidworks; the major dimensions can be seen in the drawing belo
 STL and SolidWorks files can be found under [files](https://github.com/bwilt17/Face-Mask-Ear-Saver/tree/main/files). General print settings will vary per printer, so you will need to tune them to your specific printer prior to printing.
 
 The printing specifications for my 3D printer were as follows:
+
 **Printer**: Kingroon KP3
+
 **Filament**: TechBears White PLA
+
 **Nozzle Temp.**: 190 C
+
 **Bed Temp.**: 60 C
+
 **Print Speed**: 30 mm/s
 
 ## Results:
