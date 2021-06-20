@@ -4,7 +4,7 @@ Simple Face Mask "Ear Saver" designed in SolidWorks for 3D printing.
 ![Final Product](/Face%20Mask%20Ear%20Saver/images/print.png)
 
 ## Project Overview:
-As you're certainly aware, the Covid-19 pandemic has ushered in a new era of necessary accessories: face masks. In order to prevent the spread and protect others, face masks are required in all public places. The most effective of these masks are N-95 or surgical masks, though homemade, double-layered cotton masks have been recommended in the past. As surgical masks have become more readily available, and with more contagious Covid-19 variants now making the rounds across the country, the newest recommendation is to wear a surgical mask with a cotton mask over top for added protection.
+As you're certainly aware, the Covid-19 pandemic has ushered in a new era of necessary accessories: face masks. In order to prevent the spread and protect others, face masks are required in all public places. The most effective of these masks are N-95 or surgical masks, though homemade, double-layered cotton masks have also been recommended. As surgical masks have become more readily available, and with more contagious Covid-19 variants now making the rounds across the country, the newest recommendation is to wear a surgical mask with a cotton mask over top for added protection.
 
 Now, the problem is, surgical masks use loops over the ears to hold them in place. I have extremely sensitive ears, and the skin behind them can split open or become irritated even from wearing headphones at my desk. As you might expect, this makes wearing surgical masks for even short times a pain. I saw some "mask hook" and "ear saver" products floating around the internet and figured, since I still have access to SolidWorks through my University and access to a 3D printer, I could just make my own!
 
@@ -12,7 +12,10 @@ Now, the problem is, surgical masks use loops over the ears to hold them in plac
 The main goals were to make it small, easy to use, and attractive. I also wanted the design to be easy to print on any 3D printer.
 
 ## Modeling and Printing:
-This part was modelled in SolidWorks 2020. STL and SLDPRT files can be found under [files](https://github.com/bwilt17/Face-Mask-Ear-Saver/tree/main/files). General print settings will vary per printer, so you will need to tune them to your specific printer prior to printing.
+
+![SW Model](/Face%20Mask%20Ear%20Saver/images/maskhookSW.PNG)
+
+This part was modeled in SolidWorks 2020. STL and SLDPRT files can be found under [files](https://github.com/bwilt17/Face-Mask-Ear-Saver/tree/main/files). General print settings will vary per printer, so you will need to tune them to your specific printer prior to printing.
 
 The printing specifications for my 3D printer were as follows:
 
