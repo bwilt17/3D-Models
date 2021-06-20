@@ -15,7 +15,7 @@ The main goals were to make it small, easy to use, and attractive. I also wanted
 
 ![SW Model](/Face%20Mask%20Ear%20Saver/images/maskhookSW.PNG)
 
-This part was modeled in SolidWorks 2020. STL and SLDPRT files can be found under [files](https://github.com/bwilt17/Face-Mask-Ear-Saver/tree/main/files). General print settings will vary per printer, so you will need to tune them to your specific printer prior to printing.
+This part was modeled in SolidWorks 2020. STL and SLDPRT files can be found under [files](https://github.com/bwilt17/3D-Models/tree/main/Face%20Mask%20Ear%20Saver/files). General print settings will vary per printer, so you will need to tune them to your specific printer prior to printing.
 
 The printing specifications for my 3D printer were as follows:
 
